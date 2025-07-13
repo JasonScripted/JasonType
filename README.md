@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="30" height="30" />
-  Hi there, I'm JasonType
+  Hi there, I'm JasonScripted
 </h1>
 
 <h3 align="center">A Developer from Russia</h3>
@@ -12,7 +12,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" width="25" height="25" alt="Man Technologist" /> Currently working on **[PyWinTools](https://github.com/JasonType/PyWinTools/)** and **[JasonType.live](https://github.com/JasonType/JasonType.live/)**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Eight%20O’Clock.png" width="25" height="25" alt="Clock" /> Learning new programming languages
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="25" height="25" alt="Computer" /> Developer since 2019
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="25" height="25" alt="E-Mail" /> Contact: **contact@jasontype.live**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="25" height="25" alt="E-Mail" /> Contact: **-/-**
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Information.png" width="25" height="25" alt="Information" /> About Me
 
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<a href="https://github.com/JasonType" target="_blank">
+<a href="https://github.com/JasonScripted" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
 </a>
 
@@ -92,11 +92,11 @@
 
 <div align="center">
 
-<a href="https://github.com/jasontype/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasontype&layout=compact&theme=blue_navy" alt="Top Languages" /></a>
+<a href="https://github.com/JasonScripted/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonScripted&layout=compact&theme=blue_navy" alt="Top Languages" /></a>
 
-<a href="https://github.com/jasontype/"><img src="https://github-readme-stats.vercel.app/api?username=jasontype&show_icons=true&count_private=true&hide_border=true&theme=blue_navy" alt="GitHub Stats" /></a>
+<a href="https://github.com/JasonScripted/"><img src="https://github-readme-stats.vercel.app/api?username=JasonScripted&show_icons=true&count_private=true&hide_border=true&theme=blue_navy" alt="GitHub Stats" /></a>
 
-<a href="https://github.com/jasontype/"><img src="https://github-profile-trophy.vercel.app/?username=jasontype&theme=onedark" alt="GitHub Trophies" /></a>
+<a href="https://github.com/JasonScripted/"><img src="https://github-profile-trophy.vercel.app/?username=JasonScripted&theme=onedark" alt="GitHub Trophies" /></a>
 
 </div>
 
@@ -106,11 +106,11 @@ Check out these projects:
 
 <div align="center">
 
-<a href="https://github.com/JasonType/PyWinTools/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jasontype&repo=PyWinTools&theme=blue_navy" alt="PyWinTools" /></a>
+<a href="https://github.com/JasonScripted/PyWinTools/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JasonScripted&repo=PyWinTools&theme=blue_navy" alt="PyWinTools" /></a>
 
-<a href="https://github.com/JasonType/JasonType.live/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jasontype&repo=JasonType.live&theme=blue_navy" alt="JasonType.live" /></a>
+<a href="https://github.com/JasonScripted/JasonType.live/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JasonScripted&repo=JasonType.live&theme=blue_navy" alt="JasonType.live" /></a>
 
-<a href="https://github.com/JasonType/JasonType-License/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jasontype&repo=JasonType-License&theme=blue_navy" alt="JasonType-License" /></a>
+<a href="https://github.com/JasonScripted/JasonType-License/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JasonScripted&repo=JasonType-License&theme=blue_navy" alt="JasonType-License" /></a>
 
 </div>
 
